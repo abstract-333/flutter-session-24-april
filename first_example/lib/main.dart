@@ -1,6 +1,5 @@
+import 'package:first_example/color_set.dart';
 import 'package:flutter/material.dart';
-
-import 'color_set.dart';
 
 void main() {
   runApp(const MyApp());
